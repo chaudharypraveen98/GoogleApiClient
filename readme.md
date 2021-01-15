@@ -32,4 +32,7 @@
 <br>`client.detail(place_id="ChIJqW9BqQe6j4AR0il4CC315_s", fields=["name"])`
 
 
-**Note** :-  This Api will give the json response.
+**Note** :-  This Api will give the json response.<br>
+
+It uses the two Api to fetch the data and process it. <br>
+You can use this code anywhere without any permission
